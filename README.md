@@ -29,11 +29,11 @@ This project aims to shed light on the underlying factors of wage inequality ove
 ## **Data Sources**
 
 ### **1. Wage Data**
-- **Source:** `wages_by_education.csv`
+- **Source:** `wages_by_education.csv` [https://github.com/sila-kara/DSA-210-Term-Project/blob/main/wages_by_education.csv]
 - **Details:** Annual (1973-2022) wages categorized by education level, gender, and ethnicity.
 - **Data Source:** [https://www.kaggle.com/datasets/asaniczka/wages-by-education-in-the-usa-1973-2022/data?select=wages_by_education.csv]
 
 ### **2. Inflation Data**
-- **Source:** `inflation.csv`
+- **Source:** `inflation.csv` [https://github.com/sila-kara/DSA-210-Term-Project/blob/main/inflation.csv]
 - **Details:** Monthly CPI indexes from 1913 to 2022, as a representation of inflation changes over the years.
 - **Data Source:** [https://www.kaggle.com/datasets/neelgajare/usa-cpi-inflation-from-19132022/data]
