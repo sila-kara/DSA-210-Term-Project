@@ -49,13 +49,13 @@ For this project, data was collected from multiple publicly available sources to
 
 ### Data Sources
 
-1. **Wages by Education (wages_by_education)**
+1. **Wages by Education (https://github.com/sila-kara/DSA-210-Term-Project/blob/main/wages_by_education.csv)**
    - This dataset contains **average wages by education level and gender** for the years **2000-2022**. The data includes:
      - Education levels: Less Than High School, High School, Some College, Bachelor's Degree, Advanced Degree.
      - Gender-based wages for each education level.
    - Information on **average wages by education level** was provided, which served as the foundation for the wage gap analysis.
 
-2. **Inflation Data (inflation)**
+2. **Inflation Data (https://github.com/sila-kara/DSA-210-Term-Project/blob/main/inflation.csv)**
    - The inflation dataset includes **annual inflation rates** for the years **2000-2022**.
    - Inflation rates were used to **adjust nominal wages to real wages**, making the data comparable across years.
 
