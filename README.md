@@ -266,14 +266,17 @@ After performing the hypothesis test, we obtained the following results for each
 5. **Advanced Degree:**
    - **T-statistic**: 3.39
    - **P-value**: 0.0037
-   - **Result**: Reject H₀. The wage gap between White and Black individuals for this education level has changed significantly between the two periods.
+   - **Result**: Reject H₀. The wage gap between White and Black individuals for this education level may be changed significantly between the two periods.
 
 ### Interpretation and Conclusion:
 
 #### Interpretation:
 The results show that the wage gap between White and Black individuals has **not changed significantly** across most education levels (Less than High School, High School, Some College, and Bachelor’s Degree) between the two time periods (2000–2010 and 2011–2022). Therefore, for these education levels, we **fail to reject the null hypothesis (H₀)**.
 
-However, for individuals with an **Advanced Degree**, there is a significant difference in the wage gap between White and Black individuals across the two periods. Thus, we **reject the null hypothesis (H₀)** for this group and conclude that the wage gap for individuals with an Advanced Degree has significantly changed over time.
+However, for individuals with an **Advanced Degree**, there might be a significant difference in the wage gap between White and Black individuals across the two periods. Thus, we **reject the null hypothesis (H₀)** for this group and conclude that the wage gap for individuals with an Advanced Degree has significantly changed over time.
 
 #### Conclusion:
-Even though we reject the null hypothesis for **Advanced Degree** individuals, the general hypothesis (which applies to all education levels) is affected because there is one exception where the wage gap significantly changed. This exception leads us to conclude that **overall**, we cannot confidently say there was a consistent change in the wage gap across all education levels. The results for the **Advanced Degree** group suggest that for this higher education level, there has been a change in the wage gap between White and Black individuals over time.
+Even though we reject the null hypothesis for **Advanced Degree** individuals, the general hypothesis (which applies to all education levels) is affected because there is one exception where the wage gap significantly changed. This exception leads us to conclude that **overall**, we cannot confidently say there was a consistent change in the wage gap across all education levels. The results for the **Advanced Degree** group suggest that for this higher education level, there has been a change in the wage gap between White and Black individuals over time. In conclusion, the hyppthesis is not true for all education levels.
+---
+## Important Note
+While preparing this assignment, assistance was received from artificial intelligence (ChatGPT and Gemini) in the preprocessing, visualization and hypothesis testing sections.
