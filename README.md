@@ -126,6 +126,9 @@ The **wage gap** between **men and women** for each education level was analyzed
 ## Findings
 
 ### EDA (Visual Summary of The Data)
+
+---
+## Hypothesis Testing
 #### Hypothesis 1: Wage Gap Between Men and Women
 For the first hypothesis, **the real wage gap between men and women at different education levels** has been visualized using **five separate bar charts**. Each bar chart represents the wage gap for a specific education level. The bar charts clearly showcase the differences in wages between men and women across various education categories.
 
